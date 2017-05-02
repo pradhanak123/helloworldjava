@@ -8,7 +8,7 @@ public class HelloWorld{
 	HelloWorld obj = new HelloWorld();
 	obj.method1();
    }
-   
+   // simple method definition
    void method1(){
 	   System.out.println("INside the method1");
 	   
