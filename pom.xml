@@ -5,7 +5,7 @@
   <groupId>mysamples.web</groupId>
   <artifactId>webdemo</artifactId>
   <name>Sample-Webdemo</name>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <packaging>war</packaging>
 	<description>Sample Web demo Project for testing with GIT and Jenkins </description>
  <build>
